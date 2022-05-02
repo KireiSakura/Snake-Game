@@ -31,14 +31,3 @@ In every level, the count of the number of fruits eaten in that level wil be dis
 <b>About Level 3: </b>
 
 In level 3, there are 15 fruits in total, but if the snake eats all the 15 fruits and the game is not over, then the fruits will continue to appear(so you can eat more than 15 fruits in level 3). Level 3 is over only if either the snake eats itself or it hits the wall.
-
-<b>Textures:</b>
-
-- Garden in the form of a grid
-- Snake has a head with eyes and a tounge
-- A mushroom as fruit
-
-<b>Sound Effects:</b>
-
-- When the snake eats a mushroom, a gulping sound is made
-- When the game is over a sound is played
