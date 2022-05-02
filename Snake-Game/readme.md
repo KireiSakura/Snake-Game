@@ -1,4 +1,4 @@
-#Snake Game
+# Snake Game
 
 <b>OpenJDK version:</b> "11.0.8" 2020-07-14
 
